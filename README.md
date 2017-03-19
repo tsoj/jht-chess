@@ -1,6 +1,5 @@
 
 # jht-chess
------------------------------------------
 
 This program ships a chessengine and an interface to play against it.
 
