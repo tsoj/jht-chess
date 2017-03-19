@@ -5,8 +5,7 @@ This program ships a chessengine and an interface to play against it.
 
 Installing
 ------------------------------------
-You will need Linux on your machine.
-
+You will need Linux on your machine. 
 You have to install "libncurses5-dev".
 
 
